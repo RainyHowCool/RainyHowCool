@@ -22,7 +22,6 @@ I'm currently dreaming of creating my own programming language!
 ## Contact
 
 - Bilibili: [RainyHowCool](https://space.bilibili.com/1192205694)
-- GitHub: [RainyHowCool](https://github.com/RainyHowCool)
 
 ---
 
